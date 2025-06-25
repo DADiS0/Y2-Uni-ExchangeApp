@@ -25,46 +25,6 @@ A lightweight desktop/web application developed as a second-year university assi
 
   * Basic user management (view, add, delete accounts)
 
-## Tech Stack
-
-* **Backend:** *(Your chosen language/framework)*
-* **Database:** *(e.g., SQLite / MySQL)*
-* **Frontend:** Simple HTML/CSS/JS or basic GUI toolkit
-* **Manual rate management—no external APIs**
-
-## Installation & Usage
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/YourUsername/Y2-Uni-ExchangeApp.git
-   cd Y2-Uni-ExchangeApp
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   # Example for Python
-   pip install -r requirements.txt
-   ```
-
-3. **Configure database**
-
-   * Create and migrate your local database
-   * (Optional) Edit the manual exchange rates file or settings
-
-4. **Run the application**
-
-   ```bash
-   # Example for a web app
-   python manage.py runserver
-   ```
-
-5. **Access the UI**
-
-   * Open `http://localhost:8000/` in your browser
-   * Use the admin panel at `/admin` to manage users (if enabled)
-
 ## Notes
 
 * This is a **student-level** project with a **simple interface** and **no production-grade security**.
