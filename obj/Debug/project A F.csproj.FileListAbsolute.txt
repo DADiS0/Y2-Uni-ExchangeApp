@@ -1,0 +1,56 @@
+C:\Users\F\source\repos\project A F\project A F\bin\Debug\project A F.exe.config
+C:\Users\F\source\repos\project A F\project A F\bin\Debug\project A F.exe
+C:\Users\F\source\repos\project A F\project A F\bin\Debug\project A F.pdb
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project A F.csprojAssemblyReference.cache
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project_A_F.sine_form.resources
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project_A_F.Properties.Resources.resources
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project A F.csproj.GenerateResource.cache
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project A F.csproj.CoreCompileInputs.cache
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project A F.exe
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project A F.pdb
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project_A_F.send_form.resources
+C:\Users\lenove\source\repos\project A F\project A F\bin\Debug\project A F.exe.config
+C:\Users\lenove\source\repos\project A F\project A F\bin\Debug\project A F.exe
+C:\Users\lenove\source\repos\project A F\project A F\bin\Debug\project A F.pdb
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project A F.csprojAssemblyReference.cache
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project_A_F.sine_form.resources
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project_A_F.send_form.resources
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project_A_F.receive_form.resources
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project_A_F.Properties.Resources.resources
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project A F.csproj.GenerateResource.cache
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project A F.csproj.CoreCompileInputs.cache
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project A F.exe
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project A F.pdb
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project_A_F.exchange_form.resources
+C:\Users\lenove\source\repos\project A F\project A F\obj\Debug\project_A_F.blane_form.resources
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project_A_F.receive_form.resources
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project_A_F.exchange_form.resources
+C:\Users\F\source\repos\project A F\project A F\obj\Debug\project_A_F.blane_form.resources
+C:\Users\fares\source\repos\project A F\project A F\bin\Debug\project A F.exe.config
+C:\Users\fares\source\repos\project A F\project A F\bin\Debug\project A F.exe
+C:\Users\fares\source\repos\project A F\project A F\bin\Debug\project A F.pdb
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project A F.csprojAssemblyReference.cache
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project_A_F.sine_form.resources
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project_A_F.send_form.resources
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project_A_F.receive_form.resources
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project_A_F.exchange_form.resources
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project_A_F.blane_form.resources
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project_A_F.Properties.Resources.resources
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project A F.csproj.GenerateResource.cache
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project A F.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project A F.exe
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project A F.pdb
+C:\Users\fares\source\repos\project A F\project A F\bin\Debug\project A F.mdf
+C:\Users\fares\source\repos\project A F\project A F\bin\Debug\project A F_log.ldf
+C:\Users\fares\source\repos\project A F\project A F\obj\Debug\project_A_F.admin.resources
+E:\file in c\     \project A F\project A F\obj\Debug\project A F.csprojAssemblyReference.cache
+E:\file in c\     \project A F\project A F\obj\Debug\project_A_F.admin.resources
+E:\file in c\     \project A F\project A F\obj\Debug\project_A_F.sine_form.resources
+E:\file in c\     \project A F\project A F\obj\Debug\project_A_F.send_form.resources
+E:\file in c\     \project A F\project A F\obj\Debug\project_A_F.receive_form.resources
+E:\file in c\     \project A F\project A F\obj\Debug\project_A_F.exchange_form.resources
+E:\file in c\     \project A F\project A F\obj\Debug\project_A_F.Properties.Resources.resources
+E:\file in c\     \project A F\project A F\obj\Debug\project A F.csproj.GenerateResource.cache
+E:\file in c\     \project A F\project A F\obj\Debug\project A F.csproj.CoreCompileInputs.cache
+E:\file in c\     \project A F\project A F\obj\Debug\project A F.exe
+E:\file in c\     \project A F\project A F\obj\Debug\project A F.pdb
